@@ -1,5 +1,5 @@
 # ezrecon
-Basic Scripts for recon
+This will contain multiple Scripts for recon and either defensive or offensive manoeuvres. 
 
 # ezrecon.sh 
 
